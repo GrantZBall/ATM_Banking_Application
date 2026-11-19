@@ -1,1 +1,1 @@
-We can use this to send general notes about the project to each other, just click the "edit file" button above this to add notes.
+11/18/26 UPDATE  - renamed bank to "growka" for gr - grant, ow - owen, ka - kameron, also changed the background to a gray and set a simple UI but still needs some more beautifcation
